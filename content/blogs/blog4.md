@@ -8,8 +8,10 @@ description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis mag
   sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem
   consequat tincidunt. Vivamus et sagittis tempus.
 draft: false
-image: pic07.jpg
+image: pics.jpeg
 keywords: ""
-slug: aliquam
-title: Aliquam
+slug: aboutme
+title: My short Bio
 ---
+
+MY name is Julie Chen, I am a master in management student in ESMT Berlin.
